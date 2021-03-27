@@ -1,0 +1,17 @@
+{
+  "$schema": "https://ddns.newfuture.cc/schema/v2.8.json",
+  "debug": true,
+  "dns": "dnspod",
+  "id": "209406",
+  "index4": "public",
+  "index6": "default",
+  "ipv4": [
+    "www.fj-rzwl.com"
+  ],
+  "ipv6": [
+  ],
+  "proxy": null,
+  "token": "06889858e258e91e8282f1e2ca9e5e44",
+  "ttl": null,
+  "cache": false
+}
